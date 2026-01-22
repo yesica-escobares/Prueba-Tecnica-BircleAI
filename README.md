@@ -24,11 +24,6 @@ Este proyecto fue desarrollado como parte de una **prueba técnica**, priorizand
 
 ---
 
-## Arquitectura
-
-
----
-
 ## Configuración
 
 Toda la configuración se realiza mediante variables de entorno.
