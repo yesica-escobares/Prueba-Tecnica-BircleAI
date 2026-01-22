@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic-settings
+python-multipart
+
+llama-index
+llama-index-readers-file
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+
+qdrant-client
+
+slowapi
+
+pytest
+httpx
