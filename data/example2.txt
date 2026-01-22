@@ -1,0 +1,7 @@
+La RAG es uno de los métodos más conocidos y utilizados para el aumento de contexto. Permite a los LLM aprovechar una base de conocimientos especializada, lo que mejora la capacidad de los mismos para proporcionar respuestas más precisas a las preguntas4. El proceso típico de aumento por recuperación se realiza en tres pasos:
+
+Chunking: la entrada de secuencias largas se particiona en trozos.
+Incrustación: cada trozo se codifica en una incrustación que puede ser procesada por el LLM.
+Recuperación: se recuperan los trozos incrustados más útiles en función de la consulta.
+Los marcos de datos como LlamaIndex agilizan el proceso de ingesta y recuperación de datos al proporcionar llamadas API integrales para cada paso del patrón RAG. Este proceso se basa en el concepto de un motor de consulta que permite a los usuarios hacer preguntas sobre sus datos. Consultar datos externos y solicitar a los LLM conocimientos contextuales permite crear aplicaciones de LLM específicas del dominio.
+

@@ -1,0 +1,1 @@
+LlamaIndex utiliza la RAG para añadir y conectar datos externos al conjunto de datos al que los LLM ya tienen acceso. Las aplicaciones, incluidos los motores de consulta, los chatbots y los agentes, utilizan técnicas de RAG para completar tareas
